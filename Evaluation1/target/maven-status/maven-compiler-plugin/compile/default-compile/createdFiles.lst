@@ -1,0 +1,11 @@
+com\dao\Idao.class
+com\util\HibernateUtil.class
+com\classes\Produit.class
+com\services\LigneCommandeService.class
+com\classes\Categorie.class
+com\services\CategorieService.class
+com\classes\LigneCommande.class
+com\services\CommandeService.class
+com\classes\Commande.class
+com\services\ProduitService.class
+com\test\TestApplication.class
